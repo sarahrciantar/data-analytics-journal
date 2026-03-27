@@ -22,7 +22,7 @@ Example for a workout log:
 
 ## The 6 Phases of Data Analysis 🔄
 
-I am using these phases as a roadmap to solve problems with data.
+I am using these phases as a roadmap to solve data-related problems.
 
 1. **Ask** ❓: Define the business challenge. 
    * *Goal:* What is the specific question we need to answer?
@@ -60,3 +60,42 @@ I am using this sample data to practice identifying types and issues.
 * **String:** `Order ID` (Unique identifier)
 * **Date:** `Order Date`
 * **Boolean:** (Planned) - e.g., `Goal_Reached?` (True/False)
+
+  ---
+  ## Data Analysis in Psychology & Social Science 🧠
+
+As a graduate of a bachelor's in psychology, I can map the **6 Phases** to the research process:
+It is similar to the **scientific method**. E.g., the Ask phase is like forming a hypothesis, while "Analyze" is where statistics such as t-tests or ANOVAs are used.
+  
+1. **Ask** ❓: Translating a behavioral theory into a measurable question.
+   * *Example:* "Does a 10-minute mindfulness app session reduce self-reported anxiety scores?"
+2. **Prepare** 🏗️: Identifying variables and sampling.
+   * *Example:* Collecting Likert-scale responses from a diverse group of college students.
+3. **Process** 🧹: Data cleaning and validation.
+   * *Example:* Identifying "Outliers" (e.g., a student who finished a 20-minute survey in 2 minutes) and standardizing scores (Z-scores).
+4. **Analyze** 🧐: Testing the hypothesis.
+   * *Example:* Comparing the mean anxiety scores of the "App Group" vs. the "Control Group."
+5. **Share** 📊: Communicating results visually.
+   * *Example:* Creating a Bar Chart with error bars to show the significance of the findings.
+6. **Act** 🚀: Applying findings to clinical or real-world settings.
+   * *Example:* Recommending the app to be integrated into campus counseling centers.
+
+---
+
+## Psychology & Stats: Data Type Examples 🧪
+
+| Data Category | Psychology/Research Example |
+| :--- | :--- |
+| **Numerical (Discrete)** | Number of therapy sessions attended. |
+| **Numerical (Continuous)** | Reaction time in milliseconds on a cognitive task. |
+| **Categorical (Nominal)** | Diagnostic category (e.g., MDD, GAD, ADHD). |
+| **Categorical (Ordinal)** | Likert Scale (1 = Strongly Disagree to 5 = Strongly Agree). |
+| **Boolean** | Diagnosis Met? (True / False). |
+| **String** | Patient clinician notes or open-ended interview transcripts. |
+
+---
+
+## Psychology & Data Analysis 💡
+
+* **Inconsistent Data** in psych often looks like "N/A" vs "No Answer" in a survey. Cleaning this is vital to ensure the *Validity* of the study.
+* **Missing Data** is common in longitudinal studies. Deciding whether to use the "Mean" to fill the gap or remove the participant is a major ethical and statistical decision.
