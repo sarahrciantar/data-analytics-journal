@@ -61,7 +61,7 @@ I am using this sample data to practice identifying types and issues.
 * **Date:** `Order Date`
 * **Boolean:** (Planned) - e.g., `Goal_Reached?` (True/False)
 
-  ---
+---
   ## Data Analysis in Psychology & Social Science 🧠
 
 As a graduate of a bachelor's in psychology, I can map the **6 Phases** to the research process:
@@ -99,3 +99,19 @@ It is similar to the **scientific method**. E.g., the Ask phase is like forming 
 
 * **Inconsistent Data** in psych often looks like "N/A" vs "No Answer" in a survey. Cleaning this is vital to ensure the *Validity* of the study.
 * **Missing Data** is common in longitudinal studies. Deciding whether to use the "Mean" to fill the gap or remove the participant is a major ethical and statistical decision.
+
+---
+## Iteration: "Non-Linear" 🔄
+
+Data analysis is rarely linear. It is an **iterative process**, meaning findings in later stages often require you to revisit earlier ones.
+
+* **Feedback Loop:** You might reach the *Analyze* phase only to realize the data was pulled from a biased sample (back to *Prepare*), or that your survey question was poorly phrased (back to *Ask*).
+* **Avoid "Shortcut" Traps:** The biggest mistake is rushing to an answer. Skipping steps or ignoring inconsistencies leads to "Type I" or "Type II" errors in your conclusions.
+* **Continuous Growth:** Reviewing your work at each phase doesn't just improve the data—it improves your skills as an analyst.
+
+### Psychology Connection: Iteration in Action 🧠
+| If you find this... | ...Go back to this phase |
+| :--- | :--- |
+| Outliers that suggest participants didn't understand the task. | **Process** (to re-filter or investigate) |
+| Results that don't answer the original hypothesis. | **Ask** (to refine the research question) |
+| Missing demographic data needed for a sub-group analysis. | **Prepare** (to find additional data sources) |
