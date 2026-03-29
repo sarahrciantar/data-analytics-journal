@@ -115,3 +115,53 @@ Data analysis is rarely linear. It is an **iterative process**, meaning findings
 | Outliers that suggest participants didn't understand the task. | **Process** (to re-filter or investigate) |
 | Results that don't answer the original hypothesis. | **Ask** (to refine the research question) |
 | Missing demographic data needed for a sub-group analysis. | **Prepare** (to find additional data sources) |
+
+---
+
+# Course 1, Module 1: Foundations of Data Analytics 🏗️
+
+## The Analytical Mindset 🧠
+* **Analytical Skills:** Qualities and characteristics associated with using facts to solve problems.
+* **Analytical Thinking:** The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner.
+* **Technical Mindset:** The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.
+* **Data Analyst:** Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making.
+
+## Core Definitions 🔬
+* **Data:** A collection of facts.
+* **Dataset:** A collection of data that can be manipulated or analyzed as one unit.
+* **Data Analytics:** The science of data.
+* **Data Analysis:** The collection, transformation, and organization of data to draw conclusions, make predictions, and drive informed decision-making.
+* **Data Science:** A field of study that uses raw data to create new ways of modeling and understanding the unknown.
+
+## The Data Environment & Strategy 🌐
+* **Data Ecosystem:** The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data.
+* **Data Strategy:** The management of the people, processes, and tools used in data analysis.
+* **Data Design:** How information is organized.
+* **Data-Driven Decision-Making:** Using facts to guide business strategy.
+
+## Problem-Solving Tools 🛠️
+* **Context:** The condition in which something exists or happens. 
+* **Root Cause:** The fundamental reason why a problem occurs.
+* **Gap Analysis:** A method for examining and evaluating the current state of a process to identify opportunities for improvement.
+* **Data Visualization:** The graphical representation of data.
+
+---
+
+## Applied Learning: Context vs. Root Cause 🔍
+In my Psychology background, **Context** is the background that gives meaning to data, while a **Root Cause** is the specific factor we can change to solve a problem.
+
+* **Scenario:** A spike in student anxiety levels in May.
+* **Data:** Anxiety scores (Numerical).
+* **As Context:** "Finals Week" explains why the scores are high. It provides the "Why" behind the trend.
+* **As Root Cause:** If the problem is that students are failing, and the data shows they have four exams on the same day, the "Exam Schedule" is the root cause we can actually fix.
+
+---
+
+## Iteration & The Non-Linear Process 🔄
+Data analysis is **iterative**. We often move back and forth between phases as we discover new information. Analysts must be willing to "loop back" to ensure quality.
+
+| If you find this... | ...Go back to this phase |
+| :--- | :--- |
+| Outliers suggesting participants didn't understand the task | **Process** (to re-clean or investigate) |
+| Results that don't answer the original hypothesis | **Ask** (to refine the research question) |
+| Missing demographic data needed for a sub-group analysis | **Prepare** (to find additional data sources) |
