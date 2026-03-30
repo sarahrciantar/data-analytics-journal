@@ -165,3 +165,36 @@ Data analysis is **iterative**. We often move back and forth between phases as w
 | Outliers suggesting participants didn't understand the task | **Process** (to re-clean or investigate) |
 | Results that don't answer the original hypothesis | **Ask** (to refine the research question) |
 | Missing demographic data needed for a sub-group analysis | **Prepare** (to find additional data sources) |
+
+# Course 1, Module 2: The Data Life Cycle 🔄
+
+**Key Distinction:** The **Data Analysis Process** is about solving a specific problem (Ask, Prepare, Process, Analyze, Share, Act). The **Data Life Cycle** is about the management of the data itself from "birth" to "death."
+
+## The Standard 6-Stage Life Cycle
+1. **Plan:** Decide what data is needed and how it will be managed.
+2. **Capture:** Collect data from various sources.
+3. **Manage:** Store and maintain the data (tools and security).
+4. **Analyze:** Use the data to solve problems or support goals.
+5. **Archive:** Store relevant data for long-term future reference.
+6. **Destroy:** Securely delete data and all shared copies.
+
+---
+
+## Industry Variations & Priorities 🏢
+Different sectors emphasize different stages based on their specific goals:
+
+| Organization | Priority | Unique Stages |
+| :--- | :--- | :--- |
+| **Finance** | Security & Compliance | *Qualify, Purge* |
+| **USGS (Geological)** | Documentation | *Preserve, Metadata* |
+| **Harvard (Research)** | Meaning & Context | *Visualization, Interpretation* |
+
+### Psychology & Research Perspective 🧠
+The **Harvard 8-Step Model** (Generation, Collection, Processing, Storage, Management, Analysis, Visualization, Interpretation) is most relevant to social science. 
+* It emphasizes **Interpretation**—the crucial step of assigning human meaning to the statistical results.
+* Unlike Finance, Research often omits "Purge/Destroy" because historical data is vital for longitudinal studies and validating past theories.
+
+---
+
+## The Universal Rule: Data Governance 💡
+Regardless of the model, analysts must govern how data is handled so that it remains **accurate, secure, and available** to meet the organization's needs.
