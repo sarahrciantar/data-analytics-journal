@@ -198,3 +198,48 @@ The **Harvard 8-Step Model** (Generation, Collection, Processing, Storage, Manag
 
 ## The Universal Rule: Data Governance 💡
 Regardless of the model, analysts must govern how data is handled so that it remains **accurate, secure, and available** to meet the organization's needs.
+
+# Course 1, Module 2: The Data Analysis Process (The 6 Phases) 🗺️
+
+While the **Data Life Cycle** manages the data's "life," the **Data Analysis Process** is the specific path used to solve a problem and find answers.
+
+### 1. Ask ❓
+* **Goal:** Define the problem and understand stakeholder expectations.
+* **Key Task:** Identify the "Gap" between the current state and the ideal state.
+* **Psychology Connection:** Similar to defining a research hypothesis—if the question is flawed, the data won't help.
+
+### 2. Prepare 📑
+* **Goal:** Identify and locate the data needed to answer the questions.
+* **Key Task:** Ensure data is objective, unbiased, and credible.
+
+### 3. Process 🧼
+* **Goal:** Clean and refine data to ensure accuracy.
+* **Key Task:** Remove outliers, fix errors, and transform data using **SQL** and **Spreadsheets**.
+
+### 4. Analyze 📉
+* **Goal:** Turn raw data into actionable information.
+* **Key Task:** Use **Python**, **SQL**, and **Spreadsheets** to find patterns and draw conclusions.
+
+### 5. Share 📢
+* **Goal:** Interpret results and communicate findings.
+* **Key Task:** Use **Data Visualization** to tell the "story" of the data so stakeholders can make decisions.
+
+### 6. Act 🚀
+* **Goal:** Put insights to work.
+* **Key Task:** In this program, this culminates in a **Capstone Case Study**—a real-world project to showcase in my professional portfolio.
+
+---
+
+## The Certification Roadmap 🎓
+This program is structured to master each phase individually:
+
+1. **Ask:** *Ask Questions to Make Data-Driven Decisions*
+2. **Prepare:** *Prepare Data for Exploration*
+3. **Process:** *Process Data from Dirty to Clean*
+4. **Analyze:** *Analyze Data to Answer Questions* & *Intro to Python*
+5. **Share:** *Share Data Through the Art of Visualization*
+6. **Act:** *Google Data Analytics Capstone: Complete a Case Study*
+
+---
+
+> **Analyst Tip:** The transition from **Analyze** to **Share** is where the "Psychology" of data happens—it's not just about the numbers, it's about how you help others understand and trust them.
