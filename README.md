@@ -243,3 +243,64 @@ This program is structured to master each phase individually:
 ---
 
 > **Analyst Tip:** The transition from **Analyze** to **Share** is where the "Psychology" of data happens—it's not just about the numbers, it's about how you help others understand and trust them.
+>
+> ---
+### 🛠️ UNORGANIZED NOTES & ACTIVITIES (TO BE SORTED)
+---
+---
+
+# Course 1, Module 2: Case Study — Sales Trend Visualization 📈
+
+## 📂 Project Overview: "Monthly Sales Analysis & Forecasting"
+**Objective:** Analyze three years of historical sales data to identify seasonal trends and provide actionable business recommendations for staffing and inventory management.
+
+### 1. Analysis Phase (The "What")
+By plotting the raw data into a **Line Chart**, I was able to identify a consistent, recurring peak in sales activity. 
+* **Key Finding:** Sales consistently surge between **December and February**.
+* **Observation:** The visualization proved that this wasn't a one-time fluke, but a predictable three-year pattern (likely tied to holiday/tourist seasons).
+
+### 2. Strategic Insight (The "So What?")
+Using the "Ask" phase logic, I moved from looking at the past to planning for the future.
+* **Staffing & Inventory Recommendation:** To avoid stockouts or understaffing during the peak, the business must initiate a **"Lead-Time" strategy**. 
+* **Action Plan:** Increase inventory levels and begin onboarding/training new staff in **November**. This ensures the team is fully operational before the December rush hits.
+
+### 3. Data Visualization Reflection
+The line chart acted as a bridge between "Numbers" and "Strategy." While a spreadsheet shows the values, the visualization clearly revealed the **periodicity** of the data, making it easier to communicate the urgency of November preparation to stakeholders.
+
+---
+
+## 🛠️ Tools & Skills
+* **Software:** Google Sheets
+* **Methodology:** Time-series visualization, Trend Analysis, Resource Forecasting
+* **Phase Alignment:** Analyze (identifying peaks) & Share (recommending the November rollout)
+
+---
+### 🛠️ UNORGANIZED NOTES & ACTIVITIES (TO BE SORTED)
+(Paste everything here)
+---
+---
+
+# Course 1, Module 2: Case Study — Sales Trend Visualization 📈
+
+## 📂 Project Overview: "Monthly Sales Analysis & Forecasting"
+**Objective:** Analyze three years of historical sales data to identify seasonal trends and provide actionable business recommendations for staffing and inventory management.
+
+### 1. Analysis Phase (The "What")
+By plotting the raw data into a **Line Chart**, I was able to identify a consistent, recurring peak in sales activity. 
+* **Key Finding:** Sales consistently surge between **December and February**.
+* **Observation:** The visualization proved that this wasn't a one-time fluke, but a predictable three-year pattern (likely tied to holiday/tourist seasons).
+
+### 2. Strategic Insight (The "So What?")
+Using the "Ask" phase logic, I moved from looking at the past to planning for the future.
+* **Staffing & Inventory Recommendation:** To avoid stockouts or understaffing during the peak, the business must initiate a **"Lead-Time" strategy**. 
+* **Action Plan:** Increase inventory levels and begin onboarding/training new staff in **November**. This ensures the team is fully operational before the December rush hits.
+
+### 3. Data Visualization Reflection
+The line chart acted as a bridge between "Numbers" and "Strategy." While a spreadsheet shows the values, the visualization clearly revealed the **periodicity** of the data, making it easier to communicate the urgency of November preparation to stakeholders.
+
+---
+
+## 🛠️ Tools & Skills
+* **Software:** Google Sheets
+* **Methodology:** Time-series visualization, Trend Analysis, Resource Forecasting
+* **Phase Alignment:** Analyze (identifying peaks) & Share (recommending the November rollout)
